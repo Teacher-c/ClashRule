@@ -1,0 +1,5 @@
+payload:
+  - '+.swscan.apple.com'
+  - '+.swcdn.apple.com'
+  - '+.swdist.apple.com'
+  - '+.tools.google.com'
