@@ -3,3 +3,7 @@ payload:
   - '+.swcdn.apple.com'
   - '+.swdist.apple.com'
   - '+.tools.google.com'
+########迅雷版权#################  
+  - '+.hub5idx.v6.shub.sandai.net'
+  - '+.hub5emu.v6.shub.sandai.net'
+  - '+.hub5btmain.v6.shub.sandai.net'
