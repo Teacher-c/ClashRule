@@ -1,4 +1,5 @@
 payload:
+#########阻止ios Chrome更新######
   - '+.swscan.apple.com'
   - '+.swcdn.apple.com'
   - '+.swdist.apple.com'
