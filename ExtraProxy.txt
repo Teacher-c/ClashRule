@@ -1,12 +1,12 @@
 payload:
 ######解锁Apple专用代理#########
-  - '+.mask-api.icloud.com'
-  - '+.mask-api.fe.apple-dns.net'
-  - '+.mask.icloud.com'
-  - '+.mask.apple-dns.net'
-  - '+.mask-h2.icloud.com'
-  - '+.mask-t.apple-dns.net'
+#  - '+.mask-api.icloud.com'
+#  - '+.mask-api.fe.apple-dns.net'
+#  - '+.mask.icloud.com'
+#  - '+.mask.apple-dns.net'
+#  - '+.mask-h2.icloud.com'
+#  - '+.mask-t.apple-dns.net'
 #####siri wiki##############  
-  - '+.lookup-api.apple.com'
-  - '+.lookup-api.apple.com.edgekey.net'
-  - '+.e16991.b.akamaiedge.net'
+#  - '+.lookup-api.apple.com'
+#  - '+.lookup-api.apple.com.edgekey.net'
+#  - '+.e16991.b.akamaiedge.net'
