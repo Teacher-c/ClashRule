@@ -1,8 +1,11 @@
 payload:
-#########阻止ios Chrome更新######
+#########阻止ios MacOS Chrome更新  企业证书过期######
+  - '+.ocsp.apple.com'
   - '+.swscan.apple.com'
   - '+.swcdn.apple.com'
   - '+.swdist.apple.com'
+  - '+.mesu.apple.com'
+  - '+.gdmf.apple.com'
   - '+.tools.google.com'
 ########迅雷版权#################  
   - '+.hub5idx.v6.shub.sandai.net'
